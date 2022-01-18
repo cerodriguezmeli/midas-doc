@@ -20,6 +20,12 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      loadSidebar: true,
+      alias: {
+          '/.*/_sidebar.md': '/_sidebar.md',
+        },
+      subMaxLevel: 3,
+      sidebarDisplayLevel: 1,
       name: '',
       repo: '',
       loadSidebar: true
@@ -27,5 +33,12 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- plugins -->
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
+
+
+
 </body>
 </html>
