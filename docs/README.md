@@ -14,26 +14,24 @@
 
 
 
-## Información útil
-
+## Levantar bureaus cost api
 
 <font size = 4> &nbsp;&nbsp;&nbsp; Para obtener el back, que está en Java: </font>
 
 > <font size = 4> fury get bureaus-cost-api </font>
 
 
-
-
+## Levantar midas
 
 <font size = 4>&nbsp;&nbsp;&nbsp; Para el frontend en Nordic: </font>
 
 > <font size = 4> fury get midas </font>
 
-### Links a apps
-
-
+## Links de interés
 
 
 <font size = 4>[Production Midas](https://midas.furycloud.io/)</font>
 
 <font size = 4>[Test Midas](https://test-midas.furycloud.io/)</font>
+
+<font size = 4>[Diseño Figma](https://www.figma.com/file/4BWS4osiTlhvuAkFDe7URr/Bureaus-Cost?node-id=0%3A1)</font>

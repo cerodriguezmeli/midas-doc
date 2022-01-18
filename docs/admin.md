@@ -3,7 +3,7 @@
 <font size = 4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; La idea de este módulo es administrar la creación y edición de los bureaus y sus servicios 
 
 ## View principal <br/>
-![admin-image1](./img/administration-1.png ':size=130%')
+![admin-image1](./img/administration-1.png ':size=140%')
 
 &nbsp;&nbsp;&nbsp; En esta pantalla se listan los bureaus con los siguientes datos:
 	
