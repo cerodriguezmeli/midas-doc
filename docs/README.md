@@ -12,21 +12,6 @@
 
 <font size = 4> &nbsp;&nbsp;&nbsp; Llamamos bureau a los proveedores externos mencionados anteriormente que proveen servicios de verificación de identidad, por ejemplo, Renaper.  </font>
 
-
-
-## Levantar bureaus cost api
-
-<font size = 4> &nbsp;&nbsp;&nbsp; Para obtener el back, que está en Java: </font>
-
-> <font size = 4> fury get bureaus-cost-api </font>
-
-
-## Levantar midas
-
-<font size = 4>&nbsp;&nbsp;&nbsp; Para el frontend en Nordic: </font>
-
-> <font size = 4> fury get midas </font>
-
 ## Links de interés
 
 
